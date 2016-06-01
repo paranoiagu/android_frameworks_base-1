@@ -3536,6 +3536,32 @@ public final class Settings {
         public static final String VOLUME_KEYS_CONTROL_RING_STREAM =
                 "volume_keys_control_ring_stream";
 
+        // there are some settings by paranoia driod
+        // start
+        /**
+         * @hide
+         */
+        public static final String SHOW_SU_INDICATOR = "show_su_indicator";
+
+        /**
+         * Switch for headset icon
+         * @hide
+         */
+        public static final String SHOW_HEADSET_ICON = "show_headset_icon";
+
+        /**
+         * Show four g instead of lte
+         * @hide
+         */
+        public static final String SHOW_FOURG = "show_fourg";
+
+        /**
+         * Show 3g instead of H+
+         * @hide
+         */
+        public static final String SHOW_THREEG = "show_threeg";
+        // end paranoia droid
+
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
