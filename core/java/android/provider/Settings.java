@@ -3562,6 +3562,13 @@ public final class Settings {
         public static final String SHOW_THREEG = "show_threeg";
 
         /**
+         * Whether to display powermenu on secure lockscreen
+         *
+         * @hide
+         */
+        public static final String POWER_MENU_LOCKSCREEN = "power_menu_lockscreen";
+ 
+        /**
          * whether to enable torch on lockscreen
          * @hide
          */

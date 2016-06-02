@@ -1383,6 +1383,7 @@ public class PhoneWindowManager implements WindowManagerPolicy {
             try {
                 mCameraManager.setTorchMode(getCameraId(), true);
             } catch (Exception e) {
+            }
         }
         mWasTorchActive = false;
         mIsTorchActive = true;
