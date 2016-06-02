@@ -3566,6 +3566,12 @@ public final class Settings {
          * @hide
          */
         public static final String KEYGUARD_TOGGLE_TORCH = "keyguard_toggle_torch"; 
+
+        /**
+         * Chinese date view
+         * @hide
+         */
+        public static final String CHINESE_DATE_VIEW = "chinese_date_view";
         // end paranoia droid
 
         /**
