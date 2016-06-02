@@ -3560,6 +3560,12 @@ public final class Settings {
          * @hide
          */
         public static final String SHOW_THREEG = "show_threeg";
+
+        /**
+         * whether to enable torch on lockscreen
+         * @hide
+         */
+        public static final String KEYGUARD_TOGGLE_TORCH = "keyguard_toggle_torch"; 
         // end paranoia droid
 
         /**
