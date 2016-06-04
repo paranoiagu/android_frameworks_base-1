@@ -3595,6 +3595,12 @@ public final class Settings {
          * @hide
          */
         public static final String CHINESE_DATE_VIEW = "chinese_date_view";
+
+        /**
+         * Enable/Disable screenshot sound
+         * @hide
+         */
+        public static final String SCREENSHOT_SOUND = "screenshot_sound";
         // end paranoia droid
 
         /**
