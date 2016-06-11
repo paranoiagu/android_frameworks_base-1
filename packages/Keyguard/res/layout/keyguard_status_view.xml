@@ -57,6 +57,8 @@
             android:singleLine="true"
         />
 
+        <include layout="@layout/keyguard_weather_view" />
+
         <TextView
             android:id="@+id/owner_info"
             android:layout_marginLeft="16dp"

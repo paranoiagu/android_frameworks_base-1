@@ -3625,6 +3625,22 @@ public final class Settings {
          */
         public static final String CHINESE_DATE_VIEW = "chinese_date_view";
 
+        /*
+         * Whether to show the weather info on the lock screen
+         * @hide
+         */
+        public static final String LOCK_SCREEN_SHOW_WEATHER = "lock_screen_show_weather";
+
+        /**
+         * Weather condition icon on the lock screen
+         * 0: monochrome
+         * 1: colored
+         * 2: vclouds
+         * default: 0
+         * @hide
+         */
+        public static final String LOCK_SCREEN_WEATHER_CONDITION_ICON = "lock_screen_weather_condition_icon";
+
         /**
          * Enable/Disable screenshot sound
          * @hide
