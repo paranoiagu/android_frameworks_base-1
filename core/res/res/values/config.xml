@@ -571,6 +571,8 @@
 
     <!-- If this is true, key chords can be used to take a screenshot on the device. -->
     <bool name="config_enableScreenshotChord">true</bool>
+    <!-- If this is true, key chords can be used to take a screen record on the device. -->
+    <bool name="config_enableScreenrecordChord">true</bool>
 
     <!-- If this is true, allow wake from theater mode when plugged in or unplugged. -->
     <bool name="config_allowTheaterModeWakeFromUnplug">false</bool>

@@ -3630,6 +3630,21 @@ public final class Settings {
          * @hide
          */
         public static final String SCREENSHOT_SOUND = "screenshot_sound";
+
+        /**
+         * Switch to Enable/Disable ScreenRecord Shorcut.
+         *
+         * @hide
+         */
+        public static final String SCREEN_RECORD_SHORTCUT_SWITCH = "screen_record_shortcut";
+
+        /**
+         * Switch to Enable/Disable ScreenShot Shorcut.
+         *
+         * @hide
+         */
+        public static final String SCREEN_SHOT_SHORTCUT_SWITCH = "screen_shot_shortcut";
+
         // end paranoia droid
 
         /**
